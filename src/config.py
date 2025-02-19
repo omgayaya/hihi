@@ -75,6 +75,7 @@ class ProxyConfig:
             ChannelConfig("https://raw.githubusercontent.com/4n0nymou3/wg-config-fetcher/refs/heads/main/configs/wireguard_configs.txt"),
             ChannelConfig("https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt"),
             ChannelConfig("https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah_Sub"),
+            ChannelConfig("https://raw.githubusercontent.com/yebekhe/vpn-fail/main/sub-link"),
             ChannelConfig("https://t.me/s/FreeV2rays"),
             ChannelConfig("https://t.me/s/v2ray_free_conf"),
             ChannelConfig("https://t.me/s/PrivateVPNs"),
@@ -90,7 +91,15 @@ class ProxyConfig:
             ChannelConfig("https://t.me/s/heyatserver"),
             ChannelConfig("https://t.me/s/vpnfail_vless"),
             ChannelConfig("https://t.me/s/DailyV2RY"),
-            ChannelConfig("https://t.me/s/ShadowsocksM")
+            ChannelConfig("https://t.me/s/ShadowsocksM"),
+            ChannelConfig("https://sub.bitplatform.workers.dev/pub"),
+            ChannelConfig("https://t.me/s/shokhmiplus"),
+            ChannelConfig("https://t.me/s/isvvpn"),
+            ChannelConfig("https://t.me/s/shadoowvpnn"),
+            ChannelConfig("https://yebekhe.site/api/tce/api.php?id=shadoowvpnn"),
+            ChannelConfig("https://yebekhe.site/api/tce/api.php?id=xsfilternet"),
+            ChannelConfig("https://t.me/s/opetaa_team"),
+            ChannelConfig("https://yebekhe.site/api/tce/api.php?id=outline_vpn")
         ]
 
         self.SOURCE_URLS = self._remove_duplicate_urls(initial_urls)
