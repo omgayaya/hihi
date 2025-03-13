@@ -24,6 +24,11 @@ SOURCE_URLS = [
     # "https://t.me/s/ShadowsocksM",
     "https://t.me/s/shokhmiplus",
     "https://t.me/s/poroxybaz",
+    "https://t.me/s/mobilesignal",
+    "https://t.me/s/evay_vpn",
+    "https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_RAW.txt",
+    "https://t.me/s/freewireguard",
+    "https://t.me/s/configwireguard",
     # Add more URLs here if you want to include additional sources.
 ]
 
