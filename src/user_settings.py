@@ -23,6 +23,7 @@ SOURCE_URLS = [
     "https://t.me/s/DailyV2RY",
     # "https://t.me/s/ShadowsocksM",
     "https://t.me/s/shokhmiplus",
+    "https://t.me/s/poroxybaz",
     # Add more URLs here if you want to include additional sources.
 ]
 
