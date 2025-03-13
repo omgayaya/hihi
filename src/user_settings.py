@@ -22,6 +22,7 @@ SOURCE_URLS = [
     "https://t.me/s/vpnfail_vless",
     "https://t.me/s/DailyV2RY",
     # "https://t.me/s/ShadowsocksM",
+    "https://t.me/s/shokhmiplus",
     # Add more URLs here if you want to include additional sources.
 ]
 
@@ -41,7 +42,7 @@ ENABLED_PROTOCOLS = {
     "vless://": True,
     "vmess://": True,
     "ss://": True,
-    "trojan://": True,
+    "trojan://": False,
     "tuic://": True,
 }
 
