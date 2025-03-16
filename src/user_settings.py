@@ -21,6 +21,10 @@ SOURCE_URLS = [
     "https://t.me/s/heyatserver",
     "https://t.me/s/vpnfail_vless",
     "https://t.me/s/DailyV2RY",
+    "https://t.me/s/xs_filternet",
+    "https://t.me/s/poroxybaz",
+    "https://t.me/s/shokhmiplus",
+    "https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_RAW.txt",
     # "https://t.me/s/ShadowsocksM",
     # Add more URLs here if you want to include additional sources.
 ]
