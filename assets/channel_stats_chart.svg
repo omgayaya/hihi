@@ -4,71 +4,71 @@
         .row { font: 14px Arial; fill: #64748b; }
         .score { font: bold 14px Arial; fill: #64748b; }
     </style>
-    <text x="400" y="40" text-anchor="middle" font-size="20px" font-weight="bold" fill="#64748b">Channel Performance Overview</text><rect x="150" y="80" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="80" width="387.9" height="30" fill="#22c55e" rx="5"/>
+    <text x="400" y="40" text-anchor="middle" font-size="20px" font-weight="bold" fill="#64748b">Channel Performance Overview</text><rect x="150" y="80" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="80" width="388.40000000000003" height="30" fill="#22c55e" rx="5"/>
         <text x="140" y="100" text-anchor="end" class="row">configs.txt</text>
-        <text x="660" y="100" text-anchor="start" class="score">77.6% (S:100%)</text><rect x="150" y="130" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="130" width="377.1" height="30" fill="#22c55e" rx="5"/>
+        <text x="660" y="100" text-anchor="start" class="score">77.7% (S:100%)</text><rect x="150" y="130" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="130" width="377.9" height="30" fill="#22c55e" rx="5"/>
         <text x="140" y="150" text-anchor="end" class="row">sub_1.txt</text>
-        <text x="660" y="150" text-anchor="start" class="score">75.4% (S:100%)</text><rect x="150" y="180" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="180" width="75.0" height="30" fill="#ef4444" rx="5"/>
+        <text x="660" y="150" text-anchor="start" class="score">75.6% (S:100%)</text><rect x="150" y="180" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="180" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="200" text-anchor="end" class="row">wireguard_configs.txt</text>
-        <text x="660" y="200" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="230" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="230" width="495.09999999999997" height="30" fill="#22c55e" rx="5"/>
+        <text x="660" y="200" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="230" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="230" width="496.04999999999995" height="30" fill="#22c55e" rx="5"/>
         <text x="140" y="250" text-anchor="end" class="row">FreeV2rays</text>
-        <text x="660" y="250" text-anchor="start" class="score">99.0% (S:100%)</text><rect x="150" y="280" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="280" width="465.4" height="30" fill="#22c55e" rx="5"/>
+        <text x="660" y="250" text-anchor="start" class="score">99.2% (S:100%)</text><rect x="150" y="280" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="280" width="465.95" height="30" fill="#22c55e" rx="5"/>
         <text x="140" y="300" text-anchor="end" class="row">v2ray_free_conf</text>
-        <text x="660" y="300" text-anchor="start" class="score">93.1% (S:100%)</text><rect x="150" y="330" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="330" width="498.54999999999995" height="30" fill="#22c55e" rx="5"/>
+        <text x="660" y="300" text-anchor="start" class="score">93.2% (S:100%)</text><rect x="150" y="330" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="330" width="499.0" height="30" fill="#22c55e" rx="5"/>
         <text x="140" y="350" text-anchor="end" class="row">PrivateVPNs</text>
-        <text x="660" y="350" text-anchor="start" class="score">99.7% (S:100%)</text><rect x="150" y="380" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="380" width="428.54999999999995" height="30" fill="#22c55e" rx="5"/>
+        <text x="660" y="350" text-anchor="start" class="score">99.8% (S:100%)</text><rect x="150" y="380" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="380" width="423.0" height="30" fill="#22c55e" rx="5"/>
         <text x="140" y="400" text-anchor="end" class="row">IP_CF_Config</text>
-        <text x="660" y="400" text-anchor="start" class="score">85.7% (S:100%)</text><rect x="150" y="430" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="430" width="436.65" height="30" fill="#22c55e" rx="5"/>
+        <text x="660" y="400" text-anchor="start" class="score">84.6% (S:100%)</text><rect x="150" y="430" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="430" width="437.65" height="30" fill="#22c55e" rx="5"/>
         <text x="140" y="450" text-anchor="end" class="row">shadowproxy66</text>
-        <text x="660" y="450" text-anchor="start" class="score">87.3% (S:100%)</text><rect x="150" y="480" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="480" width="456.4" height="30" fill="#22c55e" rx="5"/>
+        <text x="660" y="450" text-anchor="start" class="score">87.5% (S:100%)</text><rect x="150" y="480" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="480" width="457.2" height="30" fill="#22c55e" rx="5"/>
         <text x="140" y="500" text-anchor="end" class="row">prrofile_purple</text>
-        <text x="660" y="500" text-anchor="start" class="score">91.3% (S:100%)</text><rect x="150" y="530" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="530" width="75.0" height="30" fill="#ef4444" rx="5"/>
+        <text x="660" y="500" text-anchor="start" class="score">91.4% (S:100%)</text><rect x="150" y="530" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="530" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="550" text-anchor="end" class="row">proxy_shadosocks</text>
-        <text x="660" y="550" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="580" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="580" width="477.15000000000003" height="30" fill="#22c55e" rx="5"/>
+        <text x="660" y="550" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="580" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="580" width="478.05" height="30" fill="#22c55e" rx="5"/>
         <text x="140" y="600" text-anchor="end" class="row">meli_proxyy</text>
-        <text x="660" y="600" text-anchor="start" class="score">95.4% (S:100%)</text><rect x="150" y="630" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="630" width="498.6" height="30" fill="#22c55e" rx="5"/>
+        <text x="660" y="600" text-anchor="start" class="score">95.6% (S:100%)</text><rect x="150" y="630" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="630" width="499.05" height="30" fill="#22c55e" rx="5"/>
         <text x="140" y="650" text-anchor="end" class="row">DirectVPN</text>
-        <text x="660" y="650" text-anchor="start" class="score">99.7% (S:100%)</text><rect x="150" y="680" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="680" width="471.95" height="30" fill="#22c55e" rx="5"/>
+        <text x="660" y="650" text-anchor="start" class="score">99.8% (S:100%)</text><rect x="150" y="680" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="680" width="472.8" height="30" fill="#22c55e" rx="5"/>
         <text x="140" y="700" text-anchor="end" class="row">VmessProtocol</text>
-        <text x="660" y="700" text-anchor="start" class="score">94.4% (S:100%)</text><rect x="150" y="730" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="730" width="75.0" height="30" fill="#ef4444" rx="5"/>
+        <text x="660" y="700" text-anchor="start" class="score">94.6% (S:100%)</text><rect x="150" y="730" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="730" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="750" text-anchor="end" class="row">V2ray_Alpha</text>
         <text x="660" y="750" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="780" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="780" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="800" text-anchor="end" class="row">ViProxys</text>
         <text x="660" y="800" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="830" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="830" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="850" text-anchor="end" class="row">heyatserver</text>
-        <text x="660" y="850" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="880" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="880" width="429.7" height="30" fill="#22c55e" rx="5"/>
+        <text x="660" y="850" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="880" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="880" width="430.20000000000005" height="30" fill="#22c55e" rx="5"/>
         <text x="140" y="900" text-anchor="end" class="row">vpnfail_vless</text>
-        <text x="660" y="900" text-anchor="start" class="score">85.9% (S:100%)</text><rect x="150" y="930" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="930" width="498.5" height="30" fill="#22c55e" rx="5"/>
+        <text x="660" y="900" text-anchor="start" class="score">86.0% (S:100%)</text><rect x="150" y="930" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="930" width="498.95000000000005" height="30" fill="#22c55e" rx="5"/>
         <text x="140" y="950" text-anchor="end" class="row">VlessConfig</text>
-        <text x="660" y="950" text-anchor="start" class="score">99.7% (S:100%)</text><rect x="150" y="980" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="980" width="433.0" height="30" fill="#22c55e" rx="5"/>
+        <text x="660" y="950" text-anchor="start" class="score">99.8% (S:100%)</text><rect x="150" y="980" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="980" width="433.8" height="30" fill="#22c55e" rx="5"/>
         <text x="140" y="1000" text-anchor="end" class="row">DailyV2RY</text>
-        <text x="660" y="1000" text-anchor="start" class="score">86.6% (S:100%)</text><rect x="150" y="1030" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="1030" width="75.0" height="30" fill="#ef4444" rx="5"/>
+        <text x="660" y="1000" text-anchor="start" class="score">86.8% (S:100%)</text><rect x="150" y="1030" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="1030" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="1050" text-anchor="end" class="row">xs_filternet</text>
         <text x="660" y="1050" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="1080" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="1080" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="1100" text-anchor="end" class="row">poroxybaz</text>
-        <text x="660" y="1100" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="1130" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="1130" width="415.5" height="30" fill="#22c55e" rx="5"/>
+        <text x="660" y="1100" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="1130" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="1130" width="416.3" height="30" fill="#22c55e" rx="5"/>
         <text x="140" y="1150" text-anchor="end" class="row">shokhmiplus</text>
-        <text x="660" y="1150" text-anchor="start" class="score">83.1% (S:100%)</text><rect x="150" y="1180" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="1180" width="498.15" height="30" fill="#22c55e" rx="5"/>
+        <text x="660" y="1150" text-anchor="start" class="score">83.3% (S:100%)</text><rect x="150" y="1180" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="1180" width="498.8" height="30" fill="#22c55e" rx="5"/>
         <text x="140" y="1200" text-anchor="end" class="row">vpnfail_v2ray</text>
-        <text x="660" y="1200" text-anchor="start" class="score">99.6% (S:100%)</text><rect x="150" y="1230" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="1230" width="75.0" height="30" fill="#ef4444" rx="5"/>
+        <text x="660" y="1200" text-anchor="start" class="score">99.8% (S:100%)</text><rect x="150" y="1230" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="1230" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="1250" text-anchor="end" class="row">v2rayngvpn</text>
-        <text x="660" y="1250" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="1280" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="1280" width="381.2" height="30" fill="#22c55e" rx="5"/>
+        <text x="660" y="1250" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="1280" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="1280" width="382.04999999999995" height="30" fill="#22c55e" rx="5"/>
         <text x="140" y="1300" text-anchor="end" class="row">hysteria</text>
-        <text x="660" y="1300" text-anchor="start" class="score">76.2% (S:100%)</text><rect x="150" y="1330" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="1330" width="374.20000000000005" height="30" fill="#22c55e" rx="5"/>
+        <text x="660" y="1300" text-anchor="start" class="score">76.4% (S:100%)</text><rect x="150" y="1330" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="1330" width="375.25" height="30" fill="#22c55e" rx="5"/>
         <text x="140" y="1350" text-anchor="end" class="row">V2RAY_RAW.txt</text>
-        <text x="660" y="1350" text-anchor="start" class="score">74.8% (S:100%)</text><rect x="150" y="1380" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="1380" width="374.95" height="30" fill="#22c55e" rx="5"/>
+        <text x="660" y="1350" text-anchor="start" class="score">75.0% (S:100%)</text><rect x="150" y="1380" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="1380" width="375.90000000000003" height="30" fill="#22c55e" rx="5"/>
         <text x="140" y="1400" text-anchor="end" class="row">ALL</text>
-        <text x="660" y="1400" text-anchor="start" class="score">75.0% (S:100%)</text><rect x="150" y="1430" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="1430" width="75.0" height="30" fill="#ef4444" rx="5"/>
+        <text x="660" y="1400" text-anchor="start" class="score">75.2% (S:100%)</text><rect x="150" y="1430" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="1430" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="1450" text-anchor="end" class="row">redfree8</text>
-        <text x="660" y="1450" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="1480" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="1480" width="404.20000000000005" height="30" fill="#22c55e" rx="5"/>
+        <text x="660" y="1450" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="1480" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="1480" width="405.65" height="30" fill="#22c55e" rx="5"/>
         <text x="140" y="1500" text-anchor="end" class="row">POORIA--REDFREE8.txt#POORIA--REDFREE8</text>
-        <text x="660" y="1500" text-anchor="start" class="score">80.8% (S:100%)</text><rect x="150" y="1530" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="1530" width="394.65000000000003" height="30" fill="#22c55e" rx="5"/>
+        <text x="660" y="1500" text-anchor="start" class="score">81.1% (S:100%)</text><rect x="150" y="1530" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="1530" width="395.75" height="30" fill="#22c55e" rx="5"/>
         <text x="140" y="1550" text-anchor="end" class="row">Gozargah_Sub</text>
-        <text x="660" y="1550" text-anchor="start" class="score">78.9% (S:100%)</text><rect x="150" y="1580" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="1580" width="75.0" height="30" fill="#ef4444" rx="5"/>
+        <text x="660" y="1550" text-anchor="start" class="score">79.2% (S:100%)</text><rect x="150" y="1580" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="1580" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="1600" text-anchor="end" class="row">v2rayvpno</text>
-        <text x="660" y="1600" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="1630" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="1630" width="378.45" height="30" fill="#22c55e" rx="5"/>
+        <text x="660" y="1600" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="1630" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="1630" width="379.3" height="30" fill="#22c55e" rx="5"/>
         <text x="140" y="1650" text-anchor="end" class="row">ZibaNabz</text>
-        <text x="660" y="1650" text-anchor="start" class="score">75.7% (S:100%)</text><rect x="150" y="1680" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="1680" width="435.85" height="30" fill="#22c55e" rx="5"/>
+        <text x="660" y="1650" text-anchor="start" class="score">75.9% (S:100%)</text><rect x="150" y="1680" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="1680" width="436.2" height="30" fill="#22c55e" rx="5"/>
         <text x="140" y="1700" text-anchor="end" class="row">configV2rayForFree</text>
         <text x="660" y="1700" text-anchor="start" class="score">87.2% (S:100%)</text><rect x="150" y="1730" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="1730" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="1750" text-anchor="end" class="row">SvnV2ray</text>
@@ -88,25 +88,25 @@
         <text x="140" y="2100" text-anchor="end" class="row">Parsashonam</text>
         <text x="660" y="2100" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="2130" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="2130" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="2150" text-anchor="end" class="row">v2nodes</text>
-        <text x="660" y="2150" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="2180" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="2180" width="450.05" height="30" fill="#22c55e" rx="5"/>
+        <text x="660" y="2150" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="2180" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="2180" width="444.65000000000003" height="30" fill="#22c55e" rx="5"/>
         <text x="140" y="2200" text-anchor="end" class="row">Hope_Net</text>
-        <text x="660" y="2200" text-anchor="start" class="score">90.0% (S:100%)</text><rect x="150" y="2230" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="2230" width="75.0" height="30" fill="#ef4444" rx="5"/>
+        <text x="660" y="2200" text-anchor="start" class="score">88.9% (S:100%)</text><rect x="150" y="2230" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="2230" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="2250" text-anchor="end" class="row">oneclickvpnkeys</text>
         <text x="660" y="2250" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="2280" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="2280" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="2300" text-anchor="end" class="row">ELiV2RAY</text>
-        <text x="660" y="2300" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="2330" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="2330" width="375.95" height="30" fill="#22c55e" rx="5"/>
+        <text x="660" y="2300" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="2330" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="2330" width="376.25" height="30" fill="#22c55e" rx="5"/>
         <text x="140" y="2350" text-anchor="end" class="row">T,H</text>
-        <text x="660" y="2350" text-anchor="start" class="score">75.2% (S:100%)</text><rect x="150" y="2380" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="2380" width="374.5" height="30" fill="#22c55e" rx="5"/>
+        <text x="660" y="2350" text-anchor="start" class="score">75.2% (S:100%)</text><rect x="150" y="2380" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="2380" width="375.25" height="30" fill="#22c55e" rx="5"/>
         <text x="140" y="2400" text-anchor="end" class="row">BESTIIVPNBOT.txt</text>
-        <text x="660" y="2400" text-anchor="start" class="score">74.9% (S:100%)</text><rect x="150" y="2430" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="2430" width="75.0" height="30" fill="#ef4444" rx="5"/>
+        <text x="660" y="2400" text-anchor="start" class="score">75.0% (S:100%)</text><rect x="150" y="2430" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="2430" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="2450" text-anchor="end" class="row">Sub#azadiazinjamigzare</text>
-        <text x="660" y="2450" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="2480" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="2480" width="374.20000000000005" height="30" fill="#22c55e" rx="5"/>
+        <text x="660" y="2450" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="2480" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="2480" width="375.3" height="30" fill="#22c55e" rx="5"/>
         <text x="140" y="2500" text-anchor="end" class="row">mix.txt</text>
-        <text x="660" y="2500" text-anchor="start" class="score">74.8% (S:100%)</text><rect x="150" y="2530" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="2530" width="330.45000000000005" height="30" fill="#eab308" rx="5"/>
+        <text x="660" y="2500" text-anchor="start" class="score">75.1% (S:100%)</text><rect x="150" y="2530" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="2530" width="332.8" height="30" fill="#eab308" rx="5"/>
         <text x="140" y="2550" text-anchor="end" class="row">mix.txt</text>
-        <text x="660" y="2550" text-anchor="start" class="score">66.1% (S:100%)</text><rect x="150" y="2580" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="2580" width="453.2" height="30" fill="#22c55e" rx="5"/>
+        <text x="660" y="2550" text-anchor="start" class="score">66.6% (S:100%)</text><rect x="150" y="2580" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="2580" width="454.95" height="30" fill="#22c55e" rx="5"/>
         <text x="140" y="2600" text-anchor="end" class="row">V2rayNGX</text>
-        <text x="660" y="2600" text-anchor="start" class="score">90.6% (S:100%)</text><rect x="150" y="2630" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="2630" width="75.0" height="30" fill="#ef4444" rx="5"/>
+        <text x="660" y="2600" text-anchor="start" class="score">91.0% (S:100%)</text><rect x="150" y="2630" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="2630" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="2650" text-anchor="end" class="row">mobilesignal</text>
         <text x="660" y="2650" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="2680" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="2680" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="2700" text-anchor="end" class="row">ISVvpn</text>
@@ -114,7 +114,7 @@
         <text x="140" y="2750" text-anchor="end" class="row">proxy_kafee</text>
         <text x="660" y="2750" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="2780" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="2780" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="2800" text-anchor="end" class="row">v2Line</text>
-        <text x="660" y="2800" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="2830" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="2830" width="477.40000000000003" height="30" fill="#22c55e" rx="5"/>
+        <text x="660" y="2800" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="2830" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="2830" width="477.55" height="30" fill="#22c55e" rx="5"/>
         <text x="140" y="2850" text-anchor="end" class="row">vpnowl</text>
         <text x="660" y="2850" text-anchor="start" class="score">95.5% (S:100%)</text><rect x="150" y="2880" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="2880" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="2900" text-anchor="end" class="row">melov2ray</text>
@@ -124,23 +124,23 @@
         <text x="140" y="3000" text-anchor="end" class="row">all</text>
         <text x="660" y="3000" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="3030" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="3030" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="3050" text-anchor="end" class="row">vlessh</text>
-        <text x="660" y="3050" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="3080" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="3080" width="385.90000000000003" height="30" fill="#22c55e" rx="5"/>
+        <text x="660" y="3050" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="3080" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="3080" width="386.4" height="30" fill="#22c55e" rx="5"/>
         <text x="140" y="3100" text-anchor="end" class="row">v2Source</text>
-        <text x="660" y="3100" text-anchor="start" class="score">77.2% (S:100%)</text><rect x="150" y="3130" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="3130" width="75.0" height="30" fill="#ef4444" rx="5"/>
+        <text x="660" y="3100" text-anchor="start" class="score">77.3% (S:100%)</text><rect x="150" y="3130" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="3130" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="3150" text-anchor="end" class="row">GetConfigIR</text>
         <text x="660" y="3150" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="3180" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="3180" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="3200" text-anchor="end" class="row">ArV2ray</text>
         <text x="660" y="3200" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="3230" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="3230" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="3250" text-anchor="end" class="row">inikotesla</text>
-        <text x="660" y="3250" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="3280" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="3280" width="360.75" height="30" fill="#22c55e" rx="5"/>
+        <text x="660" y="3250" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="3280" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="3280" width="361.4" height="30" fill="#22c55e" rx="5"/>
         <text x="140" y="3300" text-anchor="end" class="row">ipv6.txt</text>
-        <text x="660" y="3300" text-anchor="start" class="score">72.2% (S:100%)</text><rect x="150" y="3330" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="3330" width="337.75" height="30" fill="#eab308" rx="5"/>
+        <text x="660" y="3300" text-anchor="start" class="score">72.3% (S:100%)</text><rect x="150" y="3330" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="3330" width="340.15" height="30" fill="#eab308" rx="5"/>
         <text x="140" y="3350" text-anchor="end" class="row">mahsa.txt</text>
-        <text x="660" y="3350" text-anchor="start" class="score">67.5% (S:100%)</text><rect x="150" y="3380" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="3380" width="368.15" height="30" fill="#22c55e" rx="5"/>
+        <text x="660" y="3350" text-anchor="start" class="score">68.0% (S:100%)</text><rect x="150" y="3380" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="3380" width="369.35" height="30" fill="#22c55e" rx="5"/>
         <text x="140" y="3400" text-anchor="end" class="row">udp.txt</text>
-        <text x="660" y="3400" text-anchor="start" class="score">73.6% (S:100%)</text><rect x="150" y="3430" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="3430" width="431.4" height="30" fill="#22c55e" rx="5"/>
+        <text x="660" y="3400" text-anchor="start" class="score">73.9% (S:100%)</text><rect x="150" y="3430" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="3430" width="432.2" height="30" fill="#22c55e" rx="5"/>
         <text x="140" y="3450" text-anchor="end" class="row">V2ray_Raha</text>
-        <text x="660" y="3450" text-anchor="start" class="score">86.3% (S:100%)</text><rect x="150" y="3480" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="3480" width="75.0" height="30" fill="#ef4444" rx="5"/>
+        <text x="660" y="3450" text-anchor="start" class="score">86.4% (S:100%)</text><rect x="150" y="3480" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="3480" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="3500" text-anchor="end" class="row">VPN_Accounti</text>
         <text x="660" y="3500" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="3530" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="3530" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="3550" text-anchor="end" class="row">V2rayNG3</text>
@@ -152,15 +152,15 @@
         <text x="140" y="3700" text-anchor="end" class="row">Maznet</text>
         <text x="660" y="3700" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="3730" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="3730" width="78.5" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="3750" text-anchor="end" class="row">sub_1.txt</text>
-        <text x="660" y="3750" text-anchor="start" class="score">15.7% (S:0%)</text><rect x="150" y="3780" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="3780" width="257.15" height="30" fill="#eab308" rx="5"/>
+        <text x="660" y="3750" text-anchor="start" class="score">15.7% (S:0%)</text><rect x="150" y="3780" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="3780" width="258.15000000000003" height="30" fill="#eab308" rx="5"/>
         <text x="140" y="3800" text-anchor="end" class="row">sub_2.txt</text>
-        <text x="660" y="3800" text-anchor="start" class="score">51.4% (S:100%)</text><rect x="150" y="3830" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="3830" width="270.35" height="30" fill="#eab308" rx="5"/>
+        <text x="660" y="3800" text-anchor="start" class="score">51.6% (S:100%)</text><rect x="150" y="3830" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="3830" width="271.4" height="30" fill="#eab308" rx="5"/>
         <text x="140" y="3850" text-anchor="end" class="row">sub_3.txt</text>
-        <text x="660" y="3850" text-anchor="start" class="score">54.1% (S:100%)</text><rect x="150" y="3880" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="3880" width="116.64999999999999" height="30" fill="#ef4444" rx="5"/>
+        <text x="660" y="3850" text-anchor="start" class="score">54.3% (S:100%)</text><rect x="150" y="3880" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="3880" width="116.64999999999999" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="3900" text-anchor="end" class="row">sub_4.txt</text>
-        <text x="660" y="3900" text-anchor="start" class="score">23.3% (S:0%)</text><rect x="150" y="3930" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="3930" width="257.25" height="30" fill="#eab308" rx="5"/>
+        <text x="660" y="3900" text-anchor="start" class="score">23.3% (S:0%)</text><rect x="150" y="3930" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="3930" width="78.65" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="3950" text-anchor="end" class="row">sub_1.txt</text>
-        <text x="660" y="3950" text-anchor="start" class="score">51.5% (S:100%)</text><rect x="150" y="3980" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="3980" width="79.05" height="30" fill="#ef4444" rx="5"/>
+        <text x="660" y="3950" text-anchor="start" class="score">15.7% (S:0%)</text><rect x="150" y="3980" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="3980" width="79.05" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="4000" text-anchor="end" class="row">sub_2.txt</text>
         <text x="660" y="4000" text-anchor="start" class="score">15.8% (S:0%)</text><rect x="150" y="4030" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="4030" width="77.64999999999999" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="4050" text-anchor="end" class="row">sub_3.txt</text>
@@ -194,17 +194,17 @@
         <text x="140" y="4750" text-anchor="end" class="row">server_nekobox</text>
         <text x="660" y="4750" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="4780" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="4780" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="4800" text-anchor="end" class="row">V2rayNGn</text>
-        <text x="660" y="4800" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="4830" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="4830" width="498.5" height="30" fill="#22c55e" rx="5"/>
+        <text x="660" y="4800" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="4830" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="4830" width="498.9" height="30" fill="#22c55e" rx="5"/>
         <text x="140" y="4850" text-anchor="end" class="row">v2raying</text>
-        <text x="660" y="4850" text-anchor="start" class="score">99.7% (S:100%)</text><rect x="150" y="4880" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="4880" width="75.0" height="30" fill="#ef4444" rx="5"/>
+        <text x="660" y="4850" text-anchor="start" class="score">99.8% (S:100%)</text><rect x="150" y="4880" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="4880" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="4900" text-anchor="end" class="row">s0013_Official</text>
         <text x="660" y="4900" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="4930" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="4930" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="4950" text-anchor="end" class="row">V2RAYROZ</text>
         <text x="660" y="4950" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="4980" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="4980" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="5000" text-anchor="end" class="row">V2rayNG_Outlinee</text>
-        <text x="660" y="5000" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="5030" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="5030" width="434.45" height="30" fill="#22c55e" rx="5"/>
+        <text x="660" y="5000" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="5030" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="5030" width="435.09999999999997" height="30" fill="#22c55e" rx="5"/>
         <text x="140" y="5050" text-anchor="end" class="row">sinavm</text>
-        <text x="660" y="5050" text-anchor="start" class="score">86.9% (S:100%)</text><rect x="150" y="5080" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="5080" width="75.0" height="30" fill="#ef4444" rx="5"/>
+        <text x="660" y="5050" text-anchor="start" class="score">87.0% (S:100%)</text><rect x="150" y="5080" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="5080" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="5100" text-anchor="end" class="row">customv2ray</text>
         <text x="660" y="5100" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="5130" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="5130" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="5150" text-anchor="end" class="row">fastkanfig</text>
@@ -230,9 +230,9 @@
         <text x="140" y="5650" text-anchor="end" class="row">freedomofinfor</text>
         <text x="660" y="5650" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="5680" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="5680" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="5700" text-anchor="end" class="row">Vpnstable</text>
-        <text x="660" y="5700" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="5730" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="5730" width="415.0" height="30" fill="#22c55e" rx="5"/>
+        <text x="660" y="5700" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="5730" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="5730" width="415.45000000000005" height="30" fill="#22c55e" rx="5"/>
         <text x="140" y="5750" text-anchor="end" class="row">orange_vpns</text>
-        <text x="660" y="5750" text-anchor="start" class="score">83.0% (S:100%)</text><rect x="150" y="5780" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="5780" width="75.0" height="30" fill="#ef4444" rx="5"/>
+        <text x="660" y="5750" text-anchor="start" class="score">83.1% (S:100%)</text><rect x="150" y="5780" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="5780" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="5800" text-anchor="end" class="row">amirtronic</text>
         <text x="660" y="5800" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="5830" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="5830" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="5850" text-anchor="end" class="row">kb_v2ray_store</text>
@@ -252,9 +252,9 @@
         <text x="140" y="6200" text-anchor="end" class="row">BESTFORBEST66</text>
         <text x="660" y="6200" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="6230" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="6230" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="6250" text-anchor="end" class="row">curetech</text>
-        <text x="660" y="6250" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="6280" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="6280" width="435.95" height="30" fill="#22c55e" rx="5"/>
+        <text x="660" y="6250" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="6280" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="6280" width="436.3" height="30" fill="#22c55e" rx="5"/>
         <text x="140" y="6300" text-anchor="end" class="row">configfa</text>
-        <text x="660" y="6300" text-anchor="start" class="score">87.2% (S:100%)</text><rect x="150" y="6330" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="6330" width="75.0" height="30" fill="#ef4444" rx="5"/>
+        <text x="660" y="6300" text-anchor="start" class="score">87.3% (S:100%)</text><rect x="150" y="6330" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="6330" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="6350" text-anchor="end" class="row">Change_IP1</text>
         <text x="660" y="6350" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="6380" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="6380" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="6400" text-anchor="end" class="row">VPNCUSTOMIZE</text>
@@ -274,9 +274,9 @@
         <text x="140" y="6750" text-anchor="end" class="row">ConfigWireguard</text>
         <text x="660" y="6750" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="6780" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="6780" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="6800" text-anchor="end" class="row">WireVpnGuard</text>
-        <text x="660" y="6800" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="6830" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="6830" width="390.09999999999997" height="30" fill="#22c55e" rx="5"/>
+        <text x="660" y="6800" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="6830" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="6830" width="396.45000000000005" height="30" fill="#22c55e" rx="5"/>
         <text x="140" y="6850" text-anchor="end" class="row">LonUp_M</text>
-        <text x="660" y="6850" text-anchor="start" class="score">78.0% (S:100%)</text><rect x="150" y="6880" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="6880" width="75.0" height="30" fill="#ef4444" rx="5"/>
+        <text x="660" y="6850" text-anchor="start" class="score">79.3% (S:100%)</text><rect x="150" y="6880" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="6880" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="6900" text-anchor="end" class="row">ConfigV2rayNG</text>
         <text x="660" y="6900" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="6930" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="6930" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="6950" text-anchor="end" class="row">V2ray_Tunnel_Plus</text>
