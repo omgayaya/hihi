@@ -86,6 +86,9 @@ hysteria2://14bdcd31-8a9f-4cf1-8fcc-60045900357d@107.175.34.118:3002/?sni=us.101
 
 hysteria2://14bdcd31-8a9f-4cf1-8fcc-60045900357d@107.175.34.118:3002?sni=us.10101251.xyz#🔒 HYSTERIA-UDP 🇺🇸 US-107.175.34.118:3002
 
+hysteria2://14bdcd31-8a9f-4cf1-8fcc-60045900357d@107.175.34.118:3002?sni=us.10101251.xyz#🔒 HYSTERIA-UDP 🇺🇸 US-107.175.34.118:3002
+hysteria://208.87.243.151:17549?insecure=1&peer=www.bing.com&auth=dongtaiwang.com&upmbps=10&downmbps=50&alpn=h3#🔒 HYSTERIA-UDP 🇺🇸 US-208.87.243.151:17549
+
 hysteria2://15cca331-9e92-449d-93b0-25f82203595f@gb.gomeow.online:20309?security=tls&insecure=0&sni=gb.gomeow.online#%40V2rayNG3
 
 hysteria2://18240b2dfdd76484@70.34.207.153:443?obfs=salamander&obfs-password=d2648ec2&insecure=1&sni=70.34.207.153#🔒 HYSTERIA-UDP 🇸🇪 SE-70.34.207.153:443
@@ -115,14 +118,9 @@ hysteria2://238c7704-944d-40cd-a1cf-fb775d51ac54@164.152.33.5:21042?insecure=1&s
 
 hysteria2://238c7704-944d-40cd-a1cf-fb775d51ac54@164.152.33.5:21042?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇧🇷 BR-164.152.33.5:21042
 
-hysteria2://2429bee3-e0c1-47dd-b420-75e6512b184b@155.248.216.247:30300?insecure=1&sni=www.bing.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20-%20Toronto%20%F0%9F%8C%8E%20HY2-UDP-TLS%204%E2%83%A3
-hysteria://108.181.24.77:11512?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=apple.com&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%20%F0%9F%8C%8E%20HY1-UDP-TLS%204%E2%83%A3
-
 trojan://0bf83a1d-f785-487a-a479-3c3de2566ba6@104.21.77.44:443?security=tls&sni=x4444.890603.xyz&type=ws&host=x4444.890603.xyz&path=%2FxJXdWGMbbZovkcaL2SsGTGxE&fp=chrome&alpn=http%2F1.1#🇺🇸[openproxylist.com] trojan-US
 
 trojan://0fc9c5ff-9531-4178-966f-7d958e1df64b@45.159.251.33:443?security=tls&headerType=none&type=tcp&sni=eats-rigor-judge.stark-industries.solutions#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B5%F0%9F%87%B9
-
-trojan://0fc9c5ff-9531-4178-966f-7d958e1df64b@45.159.251.33:443?security=tls&headerType=none&type=tcp&sni=eats-rigor-judge.stark-industries.solutions#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://0fc9c5ff-9531-4178-966f-7d958e1df64b@45.67.229.222:443?security=tls&headerType=none&type=tcp&sni=morse-stank-most.stark-industries.solutions#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B2%F0%9F%87%A915 کانفیگ اختصاصی V2ray همراه اولMCI ❤️ &....⚡️ @ShadowProxy66
 
@@ -148,31 +146,33 @@ trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&heade
 
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&sni=nacho-rerun-crepe.stark-industries.solutions&type=tcp&headerType=none#US🇺🇸
 
+trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@chop-wrist-bud.stark-industries.solutions:443?allowInsecure=1&sni=chop-wrist-bud.stark-industries.solutions#@v2Source🇺🇸🌍 کشور: United States 🇺🇸⏳ پینگ: 1685.13 ms ⏳✨ کانفیگ‌های بیشتر: @v2Source ✨
+
+trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@guy-trace-lyric.stark-industries.solutions:443?allowInsecure=0#🇷🇴[openproxylist.com] trojan-RO
+
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@guy-trace-lyric.stark-industries.solutions:443?security=tls&headerType=none&type=tcp&sni=guy-trace-lyric.stark-industries.solutions#@meli_proxyy
 
-trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@guy-trace-lyric.stark-industries.solutions:443?security=tls&type=tcp&headerType=none#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+trojan://3d4ad187-b554-4300-bf71-d26c71962504@104.21.78.243:443?security=tls&sni=FFfgtyy.7282728.XYZ&type=ws&host=FFfgtyy.7282728.XYZ&path=%2FWaHA3RC540rQ8PWqRcOEICAwmfH7&fp=chrome#🇺🇸[openproxylist.com] trojan-US
 
 trojan://3d4ad187-b554-4300-bf71-d26c71962504@172.67.138.187:443?path=%2FWaHA3RC540rQ8PWqRcOEICAwmfH7&security=tls&alpn=http%2F1.1&host=fffgtyy.7282728.xyz&fp=chrome&type=ws&sni=FFfgtyy.7282728.XYZ#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_support
 
 trojan://3d4ad187-b554-4300-bf71-d26c71962504@172.67.138.187:443?path=%2FWaHA3RC540rQ8PWqRcOEICAwmfH7&security=tls&alpn=http%2F1.1&host=fffgtyy.7282728.xyz&fp=chrome&type=ws&sni=FFfgtyy.7282728.XYZ#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
-trojan://3d4ad187-b554-4300-bf71-d26c71962504@172.67.138.187:443?security=tls&sni=FFfgtyy.7282728.XYZ&type=ws&host=fffgtyy.7282728.xyz&path=%2FWaHA3RC540rQ8PWqRcOEICAwmfH7&fp=chrome&alpn=http%2F1.1#🇺🇸[openproxylist.com] trojan-US
-
 trojan://3r372@91.195.240.94:443?security=tls&sni=tj786.37927.online&type=tcp#@awlix_ir
 
 trojan://44ed7a37-af89-4cd1-8680-83a7207810d9@104.21.64.1:443?path=%2FHpYP4foAlpTKtfYnjLYhU30U&security=tls&host=21sWDE.7777128.xYZ&fp=chrome&type=ws&sni=21sWDE.7777128.xYZ#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_support
 
-trojan://44ed7a37-af89-4cd1-8680-83a7207810d9@104.21.64.1:443?security=tls&sni=21sWDE.7777128.xYZ&type=ws&host=21sWDE.7777128.xYZ&path=%2FHpYP4foAlpTKtfYnjLYhU30U&fp=chrome#🇺🇸[openproxylist.com] trojan-US
-
-trojan://4a3ee276-f50f-46f6-ba4d-13571732ab70@172.67.204.120:443?security=tls&sni=ddcDe.890603.XYz&type=ws&host=ddcde.890603.xyz&path=%2FCOp52Dbu3dvwvDWUxOqxq&fp=chrome&alpn=http%2F1.1#🇺🇸[openproxylist.com] trojan-US
+trojan://4a3ee276-f50f-46f6-ba4d-13571732ab70@104.21.83.113:443?security=tls&sni=SxcDe3.859886.XYz&type=ws&host=sxcde3.859886.xyz&path=/COp52Dbu3dvwvDWUxOqxq#🇺🇸[openproxylist.com] trojan-US
 
 trojan://508a5202-d450-42d2-a74c-9326dcda8b63@172.67.137.6:443?security=tls&sni=SsSxderT.fREevPnatM.Dpdns.ORG&type=ws&host=sssxdert.freevpnatm.dpdns.org&path=%2FdDWfJuXDH50Q7a7NsRZbl4sVHqtMKS&fp=chrome&alpn=http%2F1.1#@Hope_Net-join-us-on-Telegram
-
-trojan://508a5202-d450-42d2-a74c-9326dcda8b63@172.67.137.6:443?security=tls&sni=SsSxderT.fREevPnatM.Dpdns.ORG&type=ws&host=sssxdert.freevpnatm.dpdns.org&path=%2FdDWfJuXDH50Q7a7NsRZbl4sVHqtMKS&fp=chrome&alpn=http%2F1.1#🇺🇸[openproxylist.com] trojan-US
 
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_5
 
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.79.105.169:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=160.79.105.169:443&proxyIP=null#@Hope_Net-join-us-on-Telegram⚠️ Warning: Proxy may not work on all network operators.⏱ Please wait a few seconds after starting a proxy.🔰All the apps you need to use this proxy on different platformsShare the proxy with your friends to support the channel ✊🕊❤️‍🔥🌍 دسترسی به 20 سرور از کشورهای مختلف تنها با خرید یک سرویس! 🇩🇪🇳🇱🇹🇷🇸🇪🇺🇸🇦🇪🇫🇮🏴💼 پلن‌های نامحدود و اقتصادی با تخفیف ویژه برای همکاران و عمده‌فروشان!💰 روش‌های پرداخت متنوع: رمز ارز، پرفکت مانی، و ریال🔓 بدون محدودیت کاربران و 1 گیگ تست رایگان برای همه!⚡️ تست فوری مخصوص عمده‌فروشان🎟 خرید و تست رایگان کانفیگ:➖➖➖➖➖➖➖➖#WomenLifeFreedom#MahsaAmini #ToomajSalehi➖➖➖➖➖➖➖➖@Hope_Net 🤞
+
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.79.105.81:443?allowInsecure=0&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=160.79.105.81:443#@Hope_Net-join-us-on-Telegram
+
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@185.16.110.113:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=185.16.110.113:443&proxyIP=null#@Hope_Net-join-us-on-Telegram
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NGZlNGI3ZC1jZDQ4LTQ1ZmMtYTAzNi02MGVhNDBlNGE5NmM%3D@107.191.63.241:30665#@meli_proxyy
 
@@ -218,8 +218,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MTEyNGRjNC00ODZhLTRlOGQtYTU1ZC1lZjNjMTM2NTU
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MTEyNGRjNC00ODZhLTRlOGQtYTU1ZC1lZjNjMTM2NTU4YzU=@free.2weradf.xyz:36731#@Hope_Net
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NHdtTW9NUGttcldoZ1NnM3FvV1RUTGR5RFhUb1F5TDY1NHBNZVFxOTF1TXBXWTJoVVp4ZzVOUlFmS2ZpVkdYdnlSbnQ5ZmQ4b1Y1UldhQ2ZDajVZdTdWRkdyaGtpeEU@mx2.drawnrisha.one:55988#%F0%9F%9B%A1%EF%B8%8Fa%40oneclickvpnkeys
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.157:8080#@Awlix_ir
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:8080#%40V2rayNG3
@@ -230,9 +228,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyQm43UVZzekpHcjQ1SjZFV0xBMTJZeFlGU29zOHVNSGJ
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyVUFyWmlaa1dzZ0hHTXhvNmFEU2JYYkd2RkNxNXoxbzNIMmVNb1VBbjJURkJiYWVIRFRhNHpUeW9MUGszbzZUQTFoVFFWOURpYnlnQjE3Y3RHZVF0dkNhNWF5R1pkVHY@185.5.38.111:55988#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20(27)🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
 
-vmess://ewogICAgImFkZCI6ICI1Ny4xMjkuMjUuMjAiLAogICAgImFpZCI6IDEsCiAgICAiaG9zdCI6ICI1Ny4xMjkuMjUuMjAiLAogICAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogImxpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HqfCfh6pERS01Ny4xMjkuMjUuMjAtMTI3MSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg%3D%3D@216.250.97.118:443#%40V2rayNG3
 
-vmess://ewogICAgImFkZCI6ICI2Ny4yMjAuNjYuMTk0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiNjcuMjIwLjY2LjE5NCIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAibGlua3Z3cyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4eq8J+HuEVTLTY3LjIyMC42Ni4xOTQtMjk0MCIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+vmess://ewogICAgImFkZCI6ICI1Ny4xMjkuMjUuMjAiLAogICAgImFpZCI6IDEsCiAgICAiaG9zdCI6ICI1Ny4xMjkuMjUuMjAiLAogICAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogImxpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HqfCfh6pERS01Ny4xMjkuMjUuMjAtMTI3MSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 
 vmess://ewogICAgImFkZCI6ICI3YjY0Mzk2Mi1zdjB4czAtdGFqOW1vLTF0Y28zLmhrLnA1cHYuY29tIiwKICAgICJhaWQiOiAyLAogICAgImhvc3QiOiAiN2I2NDM5NjItc3YweHMwLXRhajltby0xdGNvMy5oay5wNXB2LmNvbSIsCiAgICAiaWQiOiAiZTI5ZGU5NTQtZWEwMS0xMWVmLWEyNzEtZjIzYzkxY2ZiYmM5IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDgwLAogICAgInBzIjogIvCfh63wn4ewSEstNDIuMi4xMTMuMTM2LTU2MjQiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIKfQ==
 
@@ -245,6 +243,8 @@ vmess://ewogICAgImFkZCI6ICIxNzIuNjcuMTcwLjEzIiwKICAgICJhaWQiOiAwLAogICAgImhvc3Qi
 vmess://ewogICAgImFkZCI6ICIxNzIuNjcuMjA3LjI2IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiZ2x3ZWlkZi5zYnMiLAogICAgImlkIjogIjc2MjIxYmZiLWU5MmYtNGU4MC04MWM1LTZmZTQ4ZjUwYWMwYiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9saW5rd3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE3Mi42Ny4yMDcuMjYtMDE2MyIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogImdsd2VpZGYuc2JzIgp9
 
 vmess://ewogICAgImFkZCI6ICIxOTMuMTIyLjU4LjE1OCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImlydmlkZW8uY2ZkIiwKICAgICJpZCI6ICJlNTM3ZjJmNS0yYTBjLTRmNTktOTJjOS04MzJjYTY0MzNiZjMiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvbGlua3dzIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh6nwn4eqREUtMTkzLjEyMi41OC4xNTgtMDkwNCIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+
+vmess://ewogICAgImFkZCI6ICJ4eGN2ZnJydDYuOTk5ODIwLnh5eiIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInh4Y3ZmcnJ0Ni45OTk4MjAueHl6IiwKICAgICJpZCI6ICI5MGYzNTdkZC03OWFjLTQ3YzYtYjBiOC05NThlMmQxOWRlMDciLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvMTBXNlNKYUswRjBvVlhlTlU2UzJSVlJQIiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+PgVJFTEFZLTEwNC4yMS4xMTIuMS02MDcwIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAieHhjdmZycnQ2Ljk5OTgyMC54eXoiCn0=
 
 vmess://ewogICAgImFkZCI6ICJhejA1LmJleW9uZHkuY2ZkIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiYXowNS5iZXlvbmR5LmNmZCIsCiAgICAiaWQiOiAiM2Y2MzhmMzQtOGRiYS00MTg2LWJjNDMtMjcxNmE3ZGRkNGJlIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmsiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE3Mi42Ny4xMzYuMjMzLTAxMTQiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 
