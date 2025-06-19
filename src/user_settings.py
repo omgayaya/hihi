@@ -35,7 +35,7 @@ SPECIFIC_CONFIG_COUNT = 250
 # Dictionary of protocols to enable or disable.
 # Set each protocol to True to enable, False to disable.
 ENABLED_PROTOCOLS = {
-    "wireguard://": False,
+    "wireguard://": True,
     "hysteria2://": True,
     "vless://": True,
     "vmess://": True,
@@ -46,4 +46,4 @@ ENABLED_PROTOCOLS = {
 
 # Maximum age of configurations in days.
 # Configurations older than this will be considered invalid.
-MAX_CONFIG_AGE_DAYS = 7
+MAX_CONFIG_AGE_DAYS = 3
