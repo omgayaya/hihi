@@ -12,6 +12,7 @@ SOURCE_URLS = [
     "https://t.me/s/meli_proxyy",
     "https://t.me/s/DirectVPN",
     "https://t.me/s/moftconfig",
+    "https://t.me/s/proxyiranip",
     # "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_1.txt",
     # "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/trojan",
     # "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/vless",
