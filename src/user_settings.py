@@ -16,7 +16,6 @@ SOURCE_URLS = [
     "https://t.me/s/v2nodes",
     "https://t.me/s/grizzlyvpn",
     "https://t.me/s/v2ray_extractor",
-    "https://t.me/s/privatevpns",
     "https://t.me/s/v2ray_configs_pool",
     "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_1.txt",
     # "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/trojan",
