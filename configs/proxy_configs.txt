@@ -192,11 +192,13 @@ trojan://Aimer@188.164.159.49:2087/?type=tcp&security=tls&sni=epccf.ambercc.file
 
 trojan://Aimer@20.243.85.49:10443/?type=tcp&security=tls&sni=epcca.ambercc.filegear-sg.me#[🏁]t.me/MoftConfig🆔 @MoftConfig
 
+trojan://Aimer@209.94.90.87:2087?allowInsecure=0&sni=agepy.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️San Francisco (Financial District)🅿️ping:17.95ms
+
 trojan://Aimer@45.134.21.8:2053/?type=tcp&security=tls&sni=epcch.ambercc.filegear-sg.me#[🏁]t.me/MoftConfig🆔 @MoftConfig
 
 trojan://Aimer@92.243.74.3:8443/?type=tcp&security=tls&sni=agept.ambercc.filegear-sg.me#[🏁]t.me/MoftConfig🆔 @MoftConfig
 
-trojan://Aimer@ignacio.ns.cloudflare.com:443?allowInsecure=0&sni=agepy.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:13.23ms
+trojan://Aimer@ignacio.ns.cloudflare.com:443?allowInsecure=0&sni=agepy.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Los Angeles🅿️ping:13.23ms
 
 trojan://bpb-trojan@104.19.35.14:443/?type=tcp&security=tls&sni=BPB-wOrkeR-pANel1-E4P.pageS.DeV#[🇨🇦]t.me/MoftConfig🆔 @MoftConfig
 
@@ -289,8 +291,6 @@ trojan://telegram-id-privatevpns@52.29.248.103:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@63.177.210.212:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
 
 trojan://telegram-id-privatevpns@63.178.144.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
-
-trojan://telegram-id-v2rayvpnchannel@13.36.196.135:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:60.08ms
 
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206UHNXcGN3WDh2cFdDVkZ2M3MyV0VKbUhuZW81ZmhhOVVjb24wcm12T1NpOD06ODk4cUFpbEFOMzJWbkZLUldIaU0wbFJyVHV0MVM2RS9kQmpPUXdsRzBudz0%3D@direct.yangon.ca:8444#%3E%3E%40free4allVPN%3A%3ACA%3A%3ACA%3A%3ACA
 
@@ -404,9 +404,9 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNjIiLCJhZGQiOiI2Mi42MC4xNTguNTQiLCJwb3J0Ijoi
 
 vmess://eyJ2IjoiMiIsInBzIjoiMyB8IEVtZXJnZW5jeVx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6Im5wbWpzLmNvbSIsInBvcnQiOiI4MDgwIiwiaWQiOiJndm5za3h3aWtvIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Imd2bnNreHdpa28tNDUxNTAxNzQ3NC5tYXNoYWxsYWhiZXQuY29tIiwicGF0aCI6IlwvbmFzbmV0XC9jZG4iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
 
-vmess://eyJ2IjoiMiIsInBzIjoiOSB8IEVtZXJnZW5jeVx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6Im5wbWpzLmNvbSIsInBvcnQiOiI4MDgwIiwiaWQiOiIyazVwaXdsd3hnIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IjJrNXBpd2x3eGctMjU5MTM0MTU3LmtoYXN0ZWhuYWJhc2hpLmNvbSIsInBhdGgiOiJcL2F2b3JvXC9jZG4iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiNSB8IEVtZXJnZW5jeVx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6Im5wbWpzLmNvbSIsInBvcnQiOiI4MDgwIiwiaWQiOiJtczVmdTY2b2ZzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Im1zNWZ1NjZvZnMtNDUxNTAxNzQ3Ny5tYXNoYWxsYWhiZXQuY29tIiwicGF0aCI6IlwvbmFzbmV0XC9jZG4iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
 
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoicHJvZDAyLWxiMDItY2xvdWQwMS5jeWJlcnNjYWxlci5jb20iLCJwb3J0IjoiMzM2NzgiLCJpZCI6IjBiZTlmNTY4LTRlZjUtNDI4OC04ODE4LTIwMzQ1OTNhZDZiZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJwYXRoIjoiXC8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiOSB8IEVtZXJnZW5jeVx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6Im5wbWpzLmNvbSIsInBvcnQiOiI4MDgwIiwiaWQiOiIyazVwaXdsd3hnIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IjJrNXBpd2x3eGctMjU5MTM0MTU3LmtoYXN0ZWhuYWJhc2hpLmNvbSIsInBhdGgiOiJcL2F2b3JvXC9jZG4iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
 
 vmess://eyJhZGQiOiAiMTA0LjIxLjMuMTg5IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImNjMmQ0Ljg5MDYwMDA0Lnh5eiIsICJpZCI6ICIyZmMzNzcxMy0zMDE3LTQ5N2UtZmYyZC05NjVmODI2YTE5YTMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjIwNTMiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVdTLVRMUyBcdWQ4M2NcdWRmZjRcdTIwMGRcdTI2MjBcdWZlMGYgTkEtMTA0LjIxLjMuMTg5OjIwNTMiLCAic2N5IjogImF1dG8iLCAic25pIjogImNjMmQ0Ljg5MDYwMDA0Lnh5eiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
 
