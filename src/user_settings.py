@@ -4,7 +4,7 @@
 # Add or remove URLs as needed. All URLs in this list are automatically enabled.
 SOURCE_URLS = [
     "https://t.me/s/v2rayfree",
-    "https://t.me/s/FreeV2rays",
+    # "https://t.me/s/FreeV2rays",
     "https://t.me/s/v2ray_free_conf",
     "https://t.me/s/PrivateVPNs",
     "https://t.me/s/IP_CF_Config",
@@ -12,8 +12,8 @@ SOURCE_URLS = [
     "https://t.me/s/meli_proxyy",
     "https://t.me/s/DirectVPN",
     "https://t.me/s/moftconfig",
-    "https://t.me/s/proxyiranip",
-    "https://t.me/s/v2nodes",
+    # "https://t.me/s/proxyiranip",
+    # "https://t.me/s/v2nodes",
     "https://t.me/s/grizzlyvpn",
     "https://t.me/s/v2ray_extractor",
     "https://t.me/s/v2ray_configs_pool",
