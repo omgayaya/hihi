@@ -14,7 +14,7 @@ SOURCE_URLS = [
     "https://t.me/s/moftconfig",
     # "https://t.me/s/proxyiranip",
     # "https://t.me/s/v2nodes",
-    "https://t.me/s/grizzlyvpn",
+    # "https://t.me/s/grizzlyvpn",
     "https://t.me/s/v2ray_extractor",
     "https://t.me/s/v2ray_configs_pool",
     "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_1.txt",
@@ -25,6 +25,7 @@ SOURCE_URLS = [
     # "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/hysteria", 
     "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
     "https://raw.githubusercontent.com/itsyebekhe/PSG/main/lite/subscriptions/xray/normal/mix",
+    "https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2",
     # Add more URLs here if you want to include additional sources.
 ]
 
